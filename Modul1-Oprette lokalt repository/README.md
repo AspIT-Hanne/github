@@ -37,7 +37,7 @@ Untracked files:
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
 
-For at stage filen til en commit. Altså flytte den eller flere filer til staging area, bruges kommandoen `git add`. Stage filer i logiske bider, fx hvis de filer der er ændret i forbindelse med en ny feature eller en bug fix
+For at stage filen til en commit. Altså flytte den eller flere filer til staging area, bruges kommandoen `git add`. Sørg for at stage filer i logiske "klumper", fx de filer der er ændret i forbindelse med en ny feature eller en bug fix
 ```bash
 $ git add README.md index.html
 $ git status
@@ -52,7 +52,7 @@ Changes to be committed:
 ```
 Det sidste stadie er når du endeligt har commited dig til en ændring med en god beskrivende besked. 
 
-Det er vigtigt med gode beskeder så andre kan følge med i hvad der bliver lavet og hvordan, og senere forstå hvilken hensigt der var med noget kode. 
+Det er vigtigt med gode beskeder, så andre kan følge med i hvad der bliver lavet og hvordan, og senere forstå hvilken hensigt der var med noget kode. 
 
 [Du kan læse mere om at skrive gode commit beskeder i denne guide](https://chris.beams.io/posts/git-commit/)
 
