@@ -8,4 +8,6 @@ Gå ind på mit remote repository og på forsiden skal du vælge knappen "Clone 
 
 Herefter kan du følge [denne vejledning](https://help.github.com/en/github/using-git/getting-changes-from-a-remote-repository) for at klone et remote repository.
 
+Sørg for at stå i den mappe, du gerne vil have klonet det remote repository ned i, når du kører bash kommandoen til at klone.
+
 Når du har gjort det, fortsætter du opgaven i V31-M1-F-2020 repositoryet, hvor du finder resten af opgave 18.
