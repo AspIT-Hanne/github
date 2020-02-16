@@ -13,5 +13,5 @@ Når du har løst opgaven skal du tage et screenshot af de kommandoer du har skr
 
 Hints:
 * `git remote add` - tilføjer et remote repository med et navn. Konventionen er at navnet er origin.
-* `git push` Opdaterer remote repository med lokale ændringer. `-u` eller `--set-upstream` fortæller `git pull` hvilket remote repository og hvilken branch den skal bruge på efterfølgende pulls. His det ikke sættes nu så skal man efterfølgende skrive `git pull origin master` hver gang, i stedet for `git pull`, når ændringer skal hentes ned fra remote. Når du først har lavet en -u behøver du ikke længere skrive hvilket remote repository, du vil pushe til og hvilken branch, du pusher fra/til. 
+* `git push` "skubber" dine lokale ændringer op til dit remote repository. 
 
