@@ -20,3 +20,8 @@ Hints:
 * `git push` "skubber" dine lokale ændringer op til dit remote repository.
 * `git pull` "trækker" ændringer ned fra dit remote repository til dit lokale repository.
 
+## Ekstraopgave
+
+Opret et nyt remote repository til dine V-relaterede filer, som du oprettede et lokalt repository til i foregående ekstraopgave. Hvis du har flere lokale repositorys, fordi dine V-relaterede filer ligger i flere mapper, skal du oprette de tilsvarende remote repositorys.
+Forbind dit/dine lokale repository(s) til det/de remote repository(s).
+Push dine data til det/de remote repository(s).
