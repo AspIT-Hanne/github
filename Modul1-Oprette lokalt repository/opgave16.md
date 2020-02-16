@@ -16,3 +16,7 @@ Hints:
 * `cd` ændrer mappen du er i (change directory). Fx `cd minMappe/` går ind i mappen 'minMappe'. Hvis du vil gå et niveau op skrives `cd ..`
 * `touch` opretter filer (rører en fil. Hvis filen ikke eksisterer oprettes den)
 
+## Ekstraopgave
+
+Når du er færdig med at oprette det lokale repository i opgaven, skal du oprette et lokalt repository med din V-relaterede kode i.
+Hvis du har din kode opdelt i moduler (V1, V2 og V3) kan det godt være, du skal oprette lokale repositorys til alle dine mapper. Hvis du har det hele liggende i en overliggende mappe, skal du kun oprette et lokalt repository i overmappen.
