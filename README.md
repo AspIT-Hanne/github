@@ -38,7 +38,7 @@ Dette er vigtigt fordi git bruger disse oplysninger når du arbejder på et proj
   <dt>Git</dt>
   <dd>Open-source distribueret versionsstyrringssystem. Bruges ofte til, at hndtere ændringer blandt programmører. </dd>
   <dt>Github</dt>
-  <dd>Virksomhed der tilbyder gratis hosting af git repositories. Har også tilføjet andre features som bug tracking, feature requests og task management - [Kanban boards](https://en.wikipedia.org/wiki/Kanban_board) - som på Trello</dd>
+  <dd>Virksomhed der tilbyder gratis hosting af git repositories. Har også tilføjet andre features som bug tracking, feature requests og task management som fx Trello</dd>
   <dt>Repository</dt>
   <dd>Det projekt du arbejder på lige nu. Dit repository er lidt firkantet sagt den mappe, hvor alle dine projektfiler ligger i. Et repository kan være enten lokalt (ligge på din computer) eller remote (ligge på en fælles server/sky - fx GitHub)</dd>
   <dt>Clone</dt>
