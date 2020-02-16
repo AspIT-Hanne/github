@@ -6,6 +6,7 @@ For at komme igang skal du starte med at installere og opsætte git på din comp
 ## For at komme igang
 
 1. Registrer en konto på [GitHub](www.github.com)
+   Når du har registreret dig på GitHub, skal du give dit brugernavn til din lærer. 
 2. [Download og installer git](https://git-scm.com/). Under installationen skal der ikke laves om i indstillingerne.
 3. Opsæt VS Code til at bruge Git Bash som standard
 
