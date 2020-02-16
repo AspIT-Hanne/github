@@ -1,4 +1,4 @@
-# Oprette lokalt repository
+# Opgave 16: Oprette lokalt repository
 
 I denne opgave skal du oprette et lokalt git repository ved at bruge terminal.
 
