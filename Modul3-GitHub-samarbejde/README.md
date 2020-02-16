@@ -49,7 +49,7 @@ Du skifter over til en anden branch med kommandoen `git checkout [navn på branc
 
 Næste gang du committer vil det blive til den branch, du er skiftet til. Er du i tvivl om, hvilken branch du arbejder med, kan du altid kontrollere det med `git branch`.
 
-## Issues og pull requests
+## Issues
 
 Når du arbejder på et projekt/remote repository med andre, kan der oprettes issues. Et issue er en ændring, som nogen gerne vil have lavet i projektet, og som de derfor lægger ud til, at man kan melde ind på at løse issuet.
 
@@ -58,6 +58,8 @@ Issues oprettes på github.com.
 Hvis du tager et issue og vælger at arbejde på det, skal du oprette en ny branch til dit arbejde, så du ikke kommer til at pushe ændringer i master branchen.
 
 Når du er færdig med dine ændringer stager, committer og pusher du ændringerne fra din nye branch til det remote repository.
+
+## Pull requests
 
 Du laver herefter et `pull request` på github.com på dine ændringer. Du beder om, at dine ændringer fra din branch, bliver "pull'et" ind og merged (flettet sammen med) master branchen.
 
