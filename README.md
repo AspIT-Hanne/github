@@ -36,7 +36,7 @@ Dette er vigtigt fordi git bruger disse oplysninger når du arbejder på et proj
 
 <dl>
   <dt>Git</dt>
-  <dd>Open-source distribueret versionsstyrringssystem. Bruges ofte til, at hndtere ændringer blandt programmører. </dd>
+  <dd>Open-source distribueret versionsstyrringssystem. Bruges ofte til, at håndtere ændringer/styre forskellige versioner i softwareudvikling blandt programmører. </dd>
   <dt>Github</dt>
   <dd>Virksomhed der tilbyder gratis hosting af git repositories. Har også tilføjet andre features som bug tracking, feature requests og task management som fx Trello</dd>
   <dt>Repository</dt>
