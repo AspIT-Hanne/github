@@ -9,9 +9,14 @@ For at kunne lave opgaven skal du på forhånd have [installeret og sat git op p
 
 Brug GitHub til at oprette et nyt tomt repository kaldet hello-git. Herefter skal du bruge de kommandoer, som GitHub selv giver dig umiddelbart efter oprettelsen, til at forbinde dit lokale repository med det nye remote repository. 
 
+Når du har forbundet dit lokale repository til dit remote repository, skal du gå ind på github.com i dit hello-git remote repository. Her skal du finde din README.md fil og ændre den. Skriv "Hello World!" i din README.md fil og commit den, mens du er online på github.com.
+
+Efterfølgende skal du hente den nye committede fil ned i dit lokale repository.
+
 Når du har løst opgaven skal du tage et screenshot af de kommandoer du har skrevet i din terminal og sende det til din lærer.
 
 Hints:
 * `git remote add` - tilføjer et remote repository med et navn. Konventionen er at navnet er origin.
-* `git push` "skubber" dine lokale ændringer op til dit remote repository. 
+* `git push` "skubber" dine lokale ændringer op til dit remote repository.
+* `git pull` "trækker" ændringer ned fra dit remote repository til dit lokale repository.
 
