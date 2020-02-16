@@ -1,11 +1,11 @@
 # Introduktion
-Materialet i dette repository introducere til git og GitHub med vejledninger, præsentation og opgaver. Du kommer gennem hvordan du installerer og sætter git op på din computer. Hvordan du laver dit første repository, opretter og tilføjer filer, forpligter dig til ændringer. Du lærer hvordan du kan ligge dit repository på GitHub. Til sidst prøver du at lave en branch.
+Materialet i dette repository introducerer til git og GitHub med vejledninger, præsentation og opgaver. Du kommer gennem hvordan du installerer og sætter git op på din computer. Hvordan du laver dit første repository, opretter og tilføjer filer, forpligter dig til ændringer. Du lærer hvordan du kan lægge dit repository på GitHub. Til sidst prøver du at lave en branch.
 
 For at komme igang skal du starte med at installere og opsætte git på din computer.
 
 ## For at komme igang
 
-1. Registre en konto på [GitHub](www.github.com)
+1. Registrer en konto på [GitHub](www.github.com)
 2. [Download og installer git](https://git-scm.com/). Under installationen skal der ikke laves om i indstillingerne.
 3. Opsæt VS Code til at bruge Git Bash som standard
 
@@ -38,15 +38,19 @@ Dette er vigtigt fordi git bruger disse oplysninger når du arbejder på et proj
   <dt>Git</dt>
   <dd>Open-source distribueret versionsstyrringssystem. Bruges ofte til, at hndtere ændringer blandt programmører. </dd>
   <dt>Github</dt>
-  <dd>Virksomhed der tilbyder gratis hosting af git repositories. Har også tilføjet andre features som bug tracking, feature requests og task management ([Kanban boards](https://en.wikipedia.org/wiki/Kanban_board)) som på Trello</dd>
+  <dd>Virksomhed der tilbyder gratis hosting af git repositories. Har også tilføjet andre features som bug tracking, feature requests og task management - [Kanban boards](https://en.wikipedia.org/wiki/Kanban_board) - som på Trello</dd>
   <dt>Repository</dt>
-  <dd></dd>
+  <dd>Det projekt du arbejder på lige nu. Dit repository er lidt firkantet sagt den mappe, hvor alle dine projektfiler ligger i. Et repository kan være enten lokalt (ligge på din computer) eller remote (ligge på en fælles server/sky - fx GitHub)</dd>
   <dt>Clone</dt>
   <dd>En klon af et eksisterende repository. </dd>
   <dt>Origin</dt>
-  <dd>Standard navn for det repository som du opretter på fx GitHub og kloner ned. Det er det remote repository som din klon udspringer fra.</dd>
+  <dd>Standard navn for det repository, som du opretter på fx GitHub og kloner ned. Det er det remote repository som din klon udspringer fra. Du kan i bund og grund også vælge at kalde URL'en til dit remote repository for "hest" og så skal du bare skrive "hest" hver gang, du vil i kontakt med dit remote repository - fx for at pushe eller pulle.</dd>
   <dt>Remote repository</dt>
-  <dd>Se origin</dd>
+  <dd>En online udgave af dit repository. Du arbejder og laver ændringer lokalt i et local repository og pusher derefter dine ændringer til dit remote repository.</dd>
+    <dt>Push</dt>
+    <dd>At "skubbe" dine filer/ændringer op til et remote repository fra et local repository.</dd>
+    <dt>Pull</dt>
+    <dd>At "trække" filer/ændringer ned fra et remote repository til dit local repository.</dd>
 </dl>
 
 
