@@ -72,3 +72,5 @@ Projektlederen kan herefter lukke det Issue, som din løsning fixede og slette d
 Det er altid en god idé at slette udviklings branches, når de ikke længere skal bruges, så de ikke bidrager til forvirring efterhånden som der kommer flere og flere udviklingsbranches.
 
 Du kan se i [denne video](https://www.youtube.com/watch?v=SoaAoATcUxU), hvordan du arbejder med branches, issues og pull requests.
+
+Du kan læse mere detaljeret om Issues og Pull Requests i filen Issues-og-Pull-Requests.md
