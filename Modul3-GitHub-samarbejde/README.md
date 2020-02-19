@@ -72,3 +72,23 @@ Projektlederen kan herefter lukke det Issue, som din løsning fixede og slette d
 Det er altid en god idé at slette udviklings branches, når de ikke længere skal bruges, så de ikke bidrager til forvirring efterhånden som der kommer flere og flere udviklingsbranches.
 
 Du kan se i [denne video](https://www.youtube.com/watch?v=SoaAoATcUxU), hvordan du arbejder med branches, issues og pull requests.
+
+Når du laver en `pull request` skal du huske at henvise til det Issue, som den løser. Hvis du bruger de rigtige keywords i titlen på din `pull request`, vil Issues automatisk blive lukket, når din `pull request` er blevet godkendt af reviewerne og merged ind i master branchen.
+Følgende keywords kan bruges til automatisk at lukke et Issue:
+
+* close
+* closes
+* closed
+* fix
+* fixes
+* fixed
+* resolve
+* resolves
+* resolved
+
+En god titel på en `pull request` kunne være:
+
+Fixes #2 - Change colorscheme on contact page
+
+[Læs mere om at linke et pull request til et bestemt issue her](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
+
