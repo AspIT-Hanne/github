@@ -9,6 +9,23 @@ Du vil efter modulet have kendskab til følgende git kommandoer:
 * `status`
 * `log`
 
+## Hvad er mit VS Code root directory
+For at vide, hvor dit lokale repository bliver placeret henne rent fysisk (hvis du fx vil finde det i stifinder), skal du vide, hvad dit VS Code root directory er.
+
+Du får svaret ved at kigge i din terminal og se, hvad der står på linjen lige over markøren.
+
+```bash
+halu@CV-BB-5984 MINGW64 ~
+```
+
+I eksemplet ovenfor er jeg i mit bruger bibliotek. Dvs. at jeg kan finde mine filer under C:/Brugere/halu
+
+Du kan ændre dit root directory i VS Code, hvis du gerne vil have din kode liggende et andet sted. Har du f.eks. brug for at din kode ligger under xampp/htdocs, kan du ændre rodbiblioteket til det. Det gør du i din VS Code settings. Gå ind under `File -> Preferences -> Settings`.
+
+![VS-Code-change-root-directory](https://user-images.githubusercontent.com/57984239/74835999-ca841700-531e-11ea-98a8-ed76ff62b20b.JPG)
+
+I søgefeltet foroven skriver du terminal.integrated.cwd. I indtastningsfeltet skriver du nu det bibliotek, som du vil have som root directory fremover.
+
 ## Oprette et git repository
 For at oprette et lokalt repository bruges kommandoen `git init`. 
 ```bash
