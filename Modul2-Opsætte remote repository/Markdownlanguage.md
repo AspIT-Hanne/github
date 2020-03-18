@@ -12,6 +12,8 @@ Din README.md fil skal både indeholde en beskrivelse af, hvad projektet/opgaven
 
 Herudover skal din README.md fil indeholde skærmbilleder af dit produkt.
 
+Du kan se et eksempel på en README.md fil i mit repository [V3-PHP-course](https://github.com/AspIT-Hanne/V3-PHP-course).
+
 Du skal nu oprette en README.md fil til dit Fugleleksikon repository.
 
 Start med at skrive, hvad det er, du arbejder med og brug nogle af de formatteringsmuligheder, som du har i markdown language.
