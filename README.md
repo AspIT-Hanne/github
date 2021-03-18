@@ -53,8 +53,11 @@ Dette er vigtigt fordi git bruger disse oplysninger når du arbejder på et proj
     <dd>At "trække" filer/ændringer ned fra et remote repository til dit local repository.</dd>
 </dl>
 
+## Videre herfra
 
-## Videre læsning
+[Oprette et lokalt repository]https://github.com/AspIT-Hanne/github/tree/master/Modul1-Oprette%20lokalt%20repository
+
+## Ekstra læsning
 
 [Guide til at skrive gode commit beskeder](https://chris.beams.io/posts/git-commit/)
 
