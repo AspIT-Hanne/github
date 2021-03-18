@@ -11,18 +11,22 @@ Du vil efter modulet have kendskab til følgende git kommandoer:
 
 ## Oprette et remote git repository
 Du opretter dit remote repository på github.com enten på din forside lige over dine repositories
+
 ![Opret nyt repository](https://user-images.githubusercontent.com/57984239/111613334-b12df280-87de-11eb-8cc4-ba1d273f976b.JPG)
 
 
 ... eller inde på din oversigt over alle dine repositories
+
 ![Opret nyt repository](https://user-images.githubusercontent.com/57984239/111613339-b25f1f80-87de-11eb-8662-6511212e5ef3.JPG)
 
 
 På første side skal du give dit repository et navn og vælge, om det skal være public eller private. Hvis det skal være en del af dit online CV, skal det naturligvis være et public repository.
+
 ![CreateNewRepo3](https://user-images.githubusercontent.com/57984239/111613343-b3904c80-87de-11eb-9c79-d0aefaab7b32.JPG)
 
 
 Når du har oprettet dit remote repository og givet det et navn, får du i næste skærmbillede en vejledning til, hvordan du kobler dit lokale repository sammen med dit remote repository.
+
 ![Overblik over nyt repository](https://user-images.githubusercontent.com/57984239/111612967-4f6d8880-87de-11eb-8ecb-2861b2dee6b6.JPG)
 
 
