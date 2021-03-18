@@ -27,3 +27,6 @@ Dit remote site får et alias - det almindeligt anvendte alias er origin. Du kan
 `git push -u origin master` "skubber" dine lokale ændringer op til dit remote repository. Origin er alias'et for URL'en for dit remote repository. Master er den branch, du vil pushe ændringer fra. Vi kommer mere ind på branches i en senere opgave.
 
 Argumentet `-u` fortæller `git pull` hvilket remote repository og hvilken branch den skal bruge på efterfølgende pulls. Hvis det ikke sættes nu, så skal man efterfølgende skrive `git pull origin master` hver gang, i stedet for `git pull`, når ændringer skal hentes ned fra remote. 
+
+## Videre herfra
+[Opgave: opret og forbind remote repository](https://github.com/AspIT-Hanne/github/blob/master/Modul2-Ops%C3%A6tte%20remote%20repository/opgave17.md)
