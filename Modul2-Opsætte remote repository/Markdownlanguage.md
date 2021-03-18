@@ -52,7 +52,7 @@ Herefter får du mulighed for at vælge, om du vil skære et område ud eller om
 
 ![FF-screenshot2](https://user-images.githubusercontent.com/57984239/76631478-0d15c980-6542-11ea-8f0c-a36bdfa231c1.JPG)
 
-Du skal nu tage et skærmbillede af dit Fugleleksikon og lægge det ind i din README.md fil til det projekt.
+Du skal nu tage et skærmbillede af dit første V1-site og lægge det ind i din README.md fil til det projekt.
 
 
 
