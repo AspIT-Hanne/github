@@ -1,4 +1,4 @@
-# Opgave 17: Oprette remote repository
+# Oprette remote repository
 
 I denne opgave skal du oprette et remote repository på GitHub
 
@@ -9,7 +9,9 @@ For at kunne lave opgaven skal du på forhånd have [installeret og sat git op p
 
 Brug GitHub til at oprette et nyt tomt repository kaldet V1. Herefter skal du bruge de kommandoer, som GitHub selv giver dig umiddelbart efter oprettelsen, til at forbinde dit lokale repository med det nye remote repository. 
 
-Når du har forbundet dit lokale repository til dit remote repository, skal du gå ind på github.com i dit remote repository V1. Her skal du finde din README.md fil og ændre den. Skriv "Hello World!" i din README.md fil og commit den, mens du er online på github.com.
+Når du har forbundet dit lokale repository til dit remote repository, skal du pushe dine filer fra dit lokale V1-repository op i dit remote repository.
+
+Herefter skal du gå ind på github.com i dit remote repository V1. Her skal du oprette en README.md fil i roden af dit repository. Skriv "Hello World!" i din README.md fil og commit den, mens du er online på github.com.
 
 Efterfølgende skal du hente den nye committede fil ned i dit lokale repository.
 
