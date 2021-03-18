@@ -65,3 +65,6 @@ Der findes også to andre stadier filer kan være i.
 * Stash: Hvis der er ændringer siden sidste commit, som du endnu ikke er klar til at committe til, så kan de flyttes ind til stash. Hvis du har været i gang med en ny feature og har behov for at gemme dine ændringer og gå tilbage til et lokalt repository som det så ud ved sidste commit. Fx hvis du skal rette en bug og ikke vil have alle dine andre ændringer med.
 
 Du kan lege rundt med dette [interaktive git cheat sheet fra NPD Software](https://ndpsoftware.com/git-cheatsheet.html) og få definitioner på de forskellige stages og kommandoer der bruges. 
+
+## Videre herfra
+[Opgave: opret remote repository](https://github.com/AspIT-Hanne/github/blob/master/Modul1-Oprette%20lokalt%20repository/opgave16.md)
