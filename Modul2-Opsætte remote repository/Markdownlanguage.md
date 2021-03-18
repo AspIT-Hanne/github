@@ -4,7 +4,7 @@ Alle tekstfiler, som ligger på GitHub, er lavet i markdown language. Markdown l
 
 Når du begynder at bruge GitHub som online portfolio skal du lave en README.md fil til alle dine projekter/opgaver.
 
-README.md filen er skrevet i markdown language og vil være den fil, som bliver vist på forsiden, når man kommer ind på et af dine GitHub projekter/opgaver.
+README.md filen er skrevet i markdown language og vil være den fil, som bliver vist på forsiden, når man kommer ind på et af dine GitHub projekter/opgaver. README.md filen skal ligge i roden på den mappe, hvor du gerne vil have, at den skal blive vist. Du kan lave en README.md fil i ligeså mange mapper, som du tænker, at det giver mening.
 
 For at kunne bruges som online portfolio er det vigtigt at have nogle gode, sigende REAMDE.md filer på alle dine projekter.
 
@@ -14,7 +14,7 @@ Herudover skal din README.md fil indeholde skærmbilleder af dit produkt.
 
 Du kan se et eksempel på en README.md fil i mit repository [V3-PHP-course](https://github.com/AspIT-Hanne/V3-PHP-course).
 
-Du skal nu oprette en README.md fil til dit Fugleleksikon repository.
+Du skal nu oprette en README.md fil til dit V1-website repository.
 
 Start med at skrive, hvad det er, du arbejder med og brug nogle af de formatteringsmuligheder, som du har i markdown language.
 
