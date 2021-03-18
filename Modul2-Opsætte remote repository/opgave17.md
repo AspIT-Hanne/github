@@ -20,4 +20,6 @@ Hints:
 * `git push` "skubber" dine lokale ændringer op til dit remote repository.
 * `git pull` "trækker" ændringer ned fra dit remote repository til dit lokale repository.
 
+## Videre herfra
+
 Du skal nu læse om [Markdown language](https://github.com/AspIT-Hanne/github/blob/master/Modul2-Ops%C3%A6tte%20remote%20repository/Markdownlanguage.md) og se, hvordan du kan lave nogle gode markdown filer, som fortæller, hvad der ligger i dine repositories og mapper.
