@@ -55,7 +55,7 @@ Dette er vigtigt fordi git bruger disse oplysninger når du arbejder på et proj
 
 ## Videre herfra
 
-[Oprette et lokalt repository]https://github.com/AspIT-Hanne/github/tree/master/Modul1-Oprette%20lokalt%20repository
+[Oprette et lokalt repository](https://github.com/AspIT-Hanne/github/tree/master/Modul1-Oprette%20lokalt%20repository)
 
 ## Ekstra læsning
 
